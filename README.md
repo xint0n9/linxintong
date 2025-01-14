@@ -30,6 +30,7 @@ To preview your unstyled content, you need to enable Github Pages. Do the follow
 2. Under **Build and deployment > Branch**, select `main` branch.
 3. Click **Save**.
 4. It may take 10-15 seconds for your Github Page to be deployed. When it is successful, you should be able to view it at `<your github username>.github.io`.
+5. You can remove the comments if you wish.
 
 Note: The default styling applied by your browser to each element is **not going to be what you actually want**. Ignore this for now; we will work on styling separately.
 
