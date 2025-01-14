@@ -12,7 +12,7 @@ This is a template repository to help you get started on your own portfolio. To 
 
 Before you start on writing the HTML and CSS:
 
-1. Decide the headings your portfolio is going to have.
+1. Decide the headings your portfolio is going to have. See `ABOUT.md` if you need help with getting started.
 2. Write your content first. What do you want to display?
    - Less is more: don't list things you are no longer doing or following.
 3. Organise the content under the appropriate headings.
