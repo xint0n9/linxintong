@@ -6,8 +6,6 @@ This is a template repository to help you get started on your ownw portfolio. To
 2. Name the repository `<your github username>.github.io`. For example, mine would be named [ngjunsiang.github.io](https://github.com/ngjunsiang/ngjunsiang.github.io).
 3. Click **Create repository**.
 
----
-
 # Getting started
 
 ## Make some content
