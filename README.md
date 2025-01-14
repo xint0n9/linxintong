@@ -25,7 +25,7 @@ Feel free to adapt any of the templates, choosing only the headers you need.
 ### **1. Academic ePortfolio**  
 **Headings and Descriptors:**  
 1. **Introduction/About Me** – A brief overview of who you are, your academic goals, and interests.  
-   *Example:* "I am a third-year undergraduate student in Psychology, passionate about cognitive neuroscience."  
+   *Example:* “I am a third-year undergraduate student in Psychology, passionate about cognitive neuroscience.”  
 2. **Education** – Details about your academic background, including degrees, majors, minors, and key courses.  
    *Example:* Bachelor of Arts in English, Minor in History (Expected Graduation: 2026)  
 3. **Coursework and Projects** – Highlights of key assignments or projects that demonstrate learning.  
@@ -41,9 +41,9 @@ Feel free to adapt any of the templates, choosing only the headers you need.
 1. **Artist/Designer Statement** – A personal statement about your creative philosophy and approach.  
    *Example:* “I aim to explore themes of cultural identity and memory through abstract painting.”  
 2. **Portfolio of Works** – A collection of artworks, each with a brief description and medium.  
-   *Example:* "Digital Illustration Series – A five-piece collection on modern urban life."  
+   *Example:* "Digital Illustration Series – A five-piece collection on modern urban life.”  
 3. **Exhibitions/Performances** – Information on art shows or performances where your work was featured.  
-   *Example:* "Participated in the Spring Arts Exhibition at XYZ Gallery, 2024."  
+   *Example:* “Participated in the Spring Arts Exhibition at XYZ Gallery, 2024.”  
 4. **Skills** – Key artistic or technical skills such as illustration, animation, or sculpture.  
    *Example:* Adobe Photoshop, Oil Painting, 3D Modeling (Blender)  
 5. **Process Journals** – Documentation of your creative process, including sketches and drafts.  
@@ -57,7 +57,7 @@ Feel free to adapt any of the templates, choosing only the headers you need.
 2. **Research and Publications** – Details of any research projects or papers you have worked on.  
    *Example:* “Co-authored a research paper on renewable energy systems presented at XYZ Conference.”  
 3. **Key Projects** – Showcase STEM-related projects, including descriptions and outcomes.  
-   *Example:* "Developed a Python-based tool for analyzing large datasets on climate change trends."  
+   *Example:* “Developed a Python-based tool for analyzing large datasets on climate change trends.”  
 4. **Technical Skills** – A list of programming languages, lab techniques, or engineering tools.  
    *Example:* Python, MATLAB, Circuit Design, R, Data Analysis  
 5. **Certifications and Awards** – List relevant certifications or recognitions.  
@@ -69,7 +69,7 @@ Feel free to adapt any of the templates, choosing only the headers you need.
 1. **Introduction/About Me** – An overview of your background, technical expertise, and areas of interest.  
    *Example:* “A software engineering student with a keen interest in developing scalable web applications.”  
 2. **IT/Software Projects** – Descriptions of IT projects, including technologies used and results.  
-   *Example:* "Created a task management app using React and Node.js with user authentication."  
+   *Example:* “Created a task management app using React and Node.js with user authentication.”  
 3. **Technical Skills** – A list of IT-related skills, such as programming languages, frameworks, and tools.  
    *Example:* Java, JavaScript, UIPath, Power BI, SQL, REST APIs  
 4. **Case Studies** – Detailed write-ups on solving specific IT problems or building solutions.  
@@ -77,3 +77,12 @@ Feel free to adapt any of the templates, choosing only the headers you need.
 5. **Certifications** – Relevant IT certifications and courses completed.  
    *Example:* “AWS Cloud Practitioner, UIPath RPA Developer Foundation”  
 6. **Contact Information** – Include your LinkedIn, GitHub, or professional website.
+
+# Getting started
+
+Before you start on writing the HTML and CSS:
+
+1. Decide the headings your portfolio is going to have.
+2. Write your content first. What do you want to display?
+   - Less is more: don't list things you are no longer doing or following.
+3. Organise the content under the appropriate headings.
