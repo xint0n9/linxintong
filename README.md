@@ -1,10 +1,21 @@
-# Using this repository
+# Using this template
+
+## Creating your own repository
 
 This is a template repository to help you get started on your own portfolio. To use it:
 
 1. Click **Use this template > Create a new repository**.
 2. Name the repository `<your github username>.github.io`. For example, mine would be named [ngjunsiang.github.io](https://github.com/ngjunsiang/ngjunsiang.github.io).
 3. Click **Create repository**.
+
+## Publishing your Github Page
+
+To view your page at `<your github username>.github.io`, you need to enable Github Pages. Do the following:
+
+1. Go to **Settings > Pages**.
+2. Under **Build and deployment > Branch**, select `main` branch.
+3. Click **Save**.
+4. It may take 10-15 seconds for your Github Page to be deployed. When it is successful, you should be able to view it at `<your github username>.github.io`.
 
 # Getting started
 
@@ -23,14 +34,7 @@ When you have your content, start by converting the content into HTML. Don't wor
 
 1. Edit `index.html`, inserting content into appopriate HTML elements to give your page some structure.
 2. Use Google / ChatGPT to discover what are the appropriate elements to use.
-
-To preview your unstyled content, you need to enable Github Pages. Do the following:
-
-1. Go to **Settings > Pages**.
-2. Under **Build and deployment > Branch**, select `main` branch.
-3. Click **Save**.
-4. It may take 10-15 seconds for your Github Page to be deployed. When it is successful, you should be able to view it at `<your github username>.github.io`.
-5. You can remove the comments if you wish.
+3. You can remove the comments if you wish.
 
 Note: The default styling applied by your browser to each element is **not going to be what you actually want**. Ignore this for now; we will work on styling separately.
 
