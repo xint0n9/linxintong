@@ -1,16 +1,16 @@
 /* This is a CSS comment. Comments are ignored by the browser */
 
 /* Use CSS selectors and rules to style your portfolio page */
- {
+body {
             font-family: 'Georgia', serif;
             margin: 0;
             padding: 0;
             text-align: center;
-            background-color: ##fffaf0;
+            background-color: #FFFAF0;
             color: #5A3E36;
         }
         header {
-            background-color: #F4DECB;
+            background-color: #D2691E;
             color: white;
             padding: 20px;
             font-style: italic;
@@ -35,9 +35,9 @@
             font-family: 'Lucida Handwriting', cursive;
         }
         footer {
-            background-color: #F4DECB;
+            background-color: #481F01;
             color: white;
-            padding: 5px;
+            padding: 10px;
             position: fixed;
             bottom: 0;
             width: 100%;
@@ -45,4 +45,3 @@
         a {
             color: #8B0000;
         }
-
